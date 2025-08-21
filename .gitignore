@@ -1,0 +1,12 @@
+# 1) compiled bytcode from javac
+*.class
+
+# 2) folder for compiled files
+out/
+
+# 3) neovim's temporary files
+*.swp
+*.swo
+*.swx
+*.un~
+*~
